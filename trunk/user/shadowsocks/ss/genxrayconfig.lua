@@ -130,4 +130,3 @@ local xray = {
 }
 
 print(cjson.encode(xray))
-
